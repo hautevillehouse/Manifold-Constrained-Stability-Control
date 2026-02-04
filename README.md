@@ -1,7 +1,5 @@
 ## The Manifold-Constrained Intelligence Institute
 
----
-
 ## Projects & Domains
 
 ### Moral Crow
